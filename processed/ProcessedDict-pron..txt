@@ -1,0 +1,100 @@
+Another>>|<<pron. &amp; a.>>|<<One more, in addition to a former number; a second or additional one, similar in likeness or in effect.
+Another>>|<<pron. &amp; a.>>|<<Not the same; different.
+Another>>|<<pron. &amp; a.>>|<<Any or some; any different person, indefinitely; any one else; some one else.
+Any>>|<<a. &amp; pron.>>|<<One indifferently, out of an indefinite number; one indefinitely, whosoever or whatsoever it may be.
+Any>>|<<a. &amp; pron.>>|<<Some, of whatever kind, quantity, or number; as, are there any witnesses present? are there any other houses like it?
+Cestuy>>|<<pron.>>|<<Alt. of Cestui
+Cestui>>|<<pron.>>|<<He; the one.
+Echon>>|<<pron.>>|<<Alt. of Echoon
+Echoon>>|<<pron.>>|<<Each one.
+Either>>|<<a. &amp; pron.>>|<<One of two; the one or the other; -- properly used of two things, but sometimes of a larger number, for any one.
+Either>>|<<a. &amp; pron.>>|<<Each of two; the one and the other; both; -- formerly, also, each of any number.
+Else>>|<<a. &amp; pron.>>|<<Other; one or something beside; as, Who else is coming? What else shall I give? Do you expect anything else?
+Everichon>>|<<pron.>>|<<Alt. of Everychon
+Everychon>>|<<pron.>>|<<Every one.
+Hem>>|<<pron.>>|<<Them
+Hemself>>|<<pron.>>|<<Alt. of Hemselven
+Hemselven>>|<<pron.>>|<<Themselves; -- used reflexively.
+Her>>|<<pron. &amp; a.>>|<<The form of the objective and the possessive case of the personal pronoun she; as, I saw her with her purse out.
+Here>>|<<pron.>>|<<See Her, their.
+Here>>|<<pron.>>|<<Her; hers. See Her.
+Hers>>|<<pron.>>|<<See the Note under Her, pron.
+Herself>>|<<pron.>>|<<An emphasized form of the third person feminine pronoun; -- used as a subject with she; as, she herself will bear the blame; also used alone in the predicate, either in the nominative or objective case; as, it is herself; she blames herself.
+Herself>>|<<pron.>>|<<Her own proper, true, or real character; hence, her right, or sane, mind; as, the woman was deranged, but she is now herself again; she has come to herself.
+Him>>|<<pron.>>|<<Them. See Hem.
+Him>>|<<pron.>>|<<The objective case of he. See He.
+Himself>>|<<pron.>>|<<An emphasized form of the third person masculine pronoun; -- used as a subject usually with he; as, he himself will bear the blame; used alone in the predicate, either in the nominative or objective case; as, it is himself who saved himself.
+Himself>>|<<pron.>>|<<One's true or real character; one's natural temper and disposition; the state of being in one's right or sane mind (after unconsciousness, passion, delirium, or abasement); as, the man has come to himself.
+Himselve>>|<<pron.>>|<<See 1st Himself.
+Hir>>|<<pron.>>|<<See Here, pron.
+Hire>>|<<pron.>>|<<See Here, pron.
+Hires>>|<<pron.>>|<<Alt. of Hirs
+Hirs>>|<<pron.>>|<<Hers; theirs. See Here, pron.
+His>>|<<pron.>>|<<Belonging or pertaining to him; -- used as a pronominal adjective or adjective pronoun; as, tell John his papers are ready; formerly used also for its, but this use is now obsolete.
+His>>|<<pron.>>|<<The possessive of he; as, the book is his.
+Hit>>|<<pron.>>|<<It.
+Ho>>|<<pron.>>|<<Who.
+Ich>>|<<pron.>>|<<I.
+Ik>>|<<pron.>>|<<I.
+Ilkon>>|<<pron.>>|<<Alt. of Ilkoon
+Ilkoon>>|<<pron.>>|<<Each one; every one.
+It>>|<<pron.>>|<<The neuter pronoun of the third person, corresponding to the masculine pronoun he and the feminine she, and having the same plural (they, their or theirs, them).
+It>>|<<pron.>>|<<As a substance for any noun of the neuter gender; as, here is the book, take it home.
+It>>|<<pron.>>|<<As a demonstrative, especially at the beginning of a sentence, pointing to that which is about to be stated, named, or mentioned, or referring to that which apparent or well known; as, I saw it was John.
+It>>|<<pron.>>|<<As an indefinite nominative for a impersonal verb; as, it snows; it rains.
+It>>|<<pron.>>|<<As a substitute for such general terms as, the state of affairs, the condition of things, and the like; as, how is it with the sick man?
+It>>|<<pron.>>|<<As an indefinite object after some intransitive verbs, or after a substantive used humorously as a verb; as, to foot it (i. e., to walk).
+Itself>>|<<pron.>>|<<The neuter reciprocal pronoun of It; as, the thing is good in itself; it stands by itself.
+Me>>|<<pron.>>|<<One. See Men, pron.
+Men>>|<<pron.>>|<<A man; one; -- used with a verb in the singular, and corresponding to the present indefinite one or they.
+Mine>>|<<pron. &amp; a.>>|<<Belonging to me; my. Used as a pronominal to me; my. Used as a pronominal adjective in the predicate; as, "Vengeance is mine; I will repay." Rom. xii. 19. Also, in the old style, used attributively, instead of my, before a noun beginning with a vowel.
+Myself>>|<<pron.>>|<<I or me in person; -- used for emphasis, my own self or person; as I myself will do it; I have done it myself; -- used also instead of me, as the object of the first person of a reflexive verb, without emphasis; as, I will defend myself.
+Myselven>>|<<pron.>>|<<Myself.
+Oneself>>|<<pron.>>|<<A reflexive form of the indefinite pronoun one. Commonly writen as two words, one's self.
+Other>>|<<pron. &amp; a.>>|<<Different from that which, or the one who, has been specified; not the same; not identical; additional; second of two.
+Other>>|<<pron. &amp; a.>>|<<Not this, but the contrary; opposite; as, the other side of a river.
+Other>>|<<pron. &amp; a.>>|<<Alternate; second; -- used esp. in connection with every; as, every other day, that is, each alternate day, every second day.
+Other>>|<<pron. &amp; a.>>|<<Left, as opposed to right.
+Ourselves>>|<<pron.>>|<<; sing. Ourself (/). An emphasized form of the pronoun of the first person plural; -- used as a subject, usually with we; also, alone in the predicate, in the nominative or the objective case.
+Thee>>|<<pron.>>|<<The objective case of thou. See Thou.
+Their>>|<<pron. &amp; a.>>|<<The possessive case of the personal pronoun they; as, their houses; their country.
+Them>>|<<pron.>>|<<The objective case of they. See They.
+Themselves>>|<<pron.>>|<<The plural of himself, herself, and itself. See Himself, Herself, Itself.
+There>>|<<pron.>>|<<In or at that place.
+There>>|<<pron.>>|<<In that matter, relation, etc.; at that point, stage, etc., regarded as a distinct place; as, he did not stop there, but continued his speech.
+There>>|<<pron.>>|<<To or into that place; thither.
+These>>|<<pron.>>|<<The plural of this. See This.
+Thilk>>|<<pron.>>|<<That same; this; that.
+Thine>>|<<pron. &amp; a.>>|<<A form of the possessive case of the pronoun thou, now superseded in common discourse by your, the possessive of you, but maintaining a place in solemn discourse, in poetry, and in the usual language of the Friends, or Quakers.
+This>>|<<pron. &amp; a.>>|<<As a demonstrative pronoun, this denotes something that is present or near in place or time, or something just mentioned, or that is just about to be mentioned.
+This>>|<<pron. &amp; a.>>|<<As an adjective, this has the same demonstrative force as the pronoun, but is followed by a noun; as, this book; this way to town.
+Those>>|<<pron.>>|<<The plural of that. See That.
+Thy>>|<<pron.>>|<<Of thee, or belonging to thee; the more common form of thine, possessive case of thou; -- used always attributively, and chiefly in the solemn or grave style, and in poetry. Thine is used in the predicate; as, the knife is thine. See Thine.
+Thyself>>|<<pron.>>|<<An emphasized form of the personal pronoun of the second person; -- used as a subject commonly with thou; as, thou thyself shalt go; that is, thou shalt go, and no other. It is sometimes used, especially in the predicate, without thou, and in the nominative as well as in the objective case.
+Us>>|<<pron.>>|<<The persons speaking, regarded as an object; ourselves; -- the objective case of we. See We.
+Whate'er>>|<<pron.>>|<<A contraction of what-ever; -- used in poetry.
+Whatever>>|<<pron.>>|<<Anything soever which; the thing or things of any kind; being this or that; of one nature or another; one thing or another; anything that may be; all that; the whole that; all particulars that; -- used both substantively and adjectively.
+Whatsoe'er>>|<<pron.>>|<<A contraction of whatsoever; -- used in poetry.
+Whatsoever>>|<<pron. &amp; a.>>|<<Whatever.
+Wheder>>|<<pron. &amp; conj.>>|<<Whether.
+Where>>|<<pron. &amp; conj.>>|<<Whether.
+Whether>>|<<pron.>>|<<Which (of two); which one (of two); -- used interrogatively and relatively.
+Which>>|<<pron.>>|<<A relative pronoun, used esp. in referring to an antecedent noun or clause, but sometimes with reference to what is specified or implied in a sentence, or to a following noun or clause (generally involving a reference, however, to something which has preceded). It is used in all numbers and genders, and was formerly used of persons.
+Which>>|<<pron.>>|<<A compound relative or indefinite pronoun, standing for any one which, whichever, that which, those which, the . . . which, and the like; as, take which you will.
+Whichever>>|<<pron. &amp; a.>>|<<Alt. of Whichsoever
+Whichsoever>>|<<pron. &amp; a.>>|<<Whether one or another; whether one or the other; which; that one (of two or more) which; as, whichever road you take, it will lead you to town.
+Whilk>>|<<pron.>>|<<Which.
+Who>>|<<pron.>>|<<One; any; one.
+Whoever>>|<<pron.>>|<<Whatever person; any person who; be or she who; any one who; as, he shall be punished, whoever he may be.
+Whom>>|<<pron.>>|<<The objective case of who.  See Who.
+Whomsoever>>|<<pron.>>|<<The objective of whosoever.  See Whosoever.
+Whose>>|<<pron.>>|<<The possessive case of who or which.  See Who, and Which.
+Whosesoever>>|<<pron.>>|<<The possessive of whosoever.  See Whosoever.
+Whoso>>|<<pron.>>|<<Whosoever.
+Whosoever>>|<<pron.>>|<<Whatsoever person; any person whatever that; whoever.
+Y>>|<<pron.>>|<<I.
+Ye>>|<<pron.>>|<<The plural of the pronoun of the second person in the nominative case.
+Your>>|<<pron. &amp; a.>>|<<The form of the possessive case of the personal pronoun you.
+Yours>>|<<pron.>>|<<See the Note under Your.
+Yourself>>|<<pron.>>|<<An emphasized or reflexive form of the pronoun of the second person; -- used as a subject commonly with you; as, you yourself shall see it; also, alone in the predicate, either in the nominative or objective case; as, you have injured yourself.
+Yow>>|<<pron.>>|<<You.

@@ -1,0 +1,8 @@
+Auxiliary>>|<<sing.>>|<<A verb which helps to form the voices, modes, and tenses of other verbs; -- called, also, an auxiliary verb; as, have, be, may, can, do, must, shall, and will, in English; etre and avoir, in French; avere and essere, in Italian; estar and haber, in Spanish.
+Auxiliary>>|<<sing.>>|<<A quantity introduced for the purpose of simplifying or facilitating some operation, as in equations or trigonometrical formulae.
+Barnacle>>|<<sing.>>|<<Spectacles; -- so called from their resemblance to the barnacles used by farriers.
+Gross>>|<<sing. &amp; pl.>>|<<The number of twelve dozen; twelve times twelve; as, a gross of bottles; ten gross of pens.
+Hexapla>>|<<sing.>>|<<A collection of the Holy Scriptures in six languages or six versions in parallel columns; particularly, the edition of the Old Testament published by Origen, in the 3d century.
+Octapla>>|<<sing.>>|<<A portion of the Old Testament prepared by Origen in the 3d century, containing the Hebrew text and seven Greek versions of it, arranged in eight parallel columns.
+Pike>>|<<sing. &amp; pl.>>|<<A large fresh-water fish (Esox lucius), found in Europe and America, highly valued as a food fish; -- called also pickerel, gedd, luce, and jack.
+Tetrapla>>|<<sing.>>|<<A Bible consisting of four different Greek versions arranged in four columns by Origen; hence, any version in four languages or four columns.

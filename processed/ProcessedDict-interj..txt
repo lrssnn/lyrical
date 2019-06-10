@@ -1,0 +1,138 @@
+Adieu>>|<<interj. &amp; adv.>>|<<Good-by; farewell; an expression of kind wishes at parting.
+Ah>>|<<interj.>>|<<An exclamation, expressive of surprise, pity, complaint, entreaty, contempt, threatening, delight, triumph, etc., according to the manner of utterance.
+Aha>>|<<interj.>>|<<An exclamation expressing, by different intonations, triumph, mixed with derision or irony, or simple surprise.
+Ahem>>|<<interj.>>|<<An exclamation to call one's attention; hem.
+Ahey>>|<<interj.>>|<<Hey; ho.
+Ahoy>>|<<interj.>>|<<A term used in hailing; as, "Ship ahoy."
+Alack>>|<<interj.>>|<<An exclamation expressive of sorrow.
+Alackaday>>|<<interj.>>|<<An exclamation expressing sorrow.
+Alas>>|<<interj.>>|<<An exclamation expressive of sorrow, pity, or apprehension of evil; -- in old writers, sometimes followed by day or white; alas the day, like alack a day, or alas the white.
+All hail>>|<<interj.>>|<<All health; -- a phrase of salutation or welcome.
+Anan>>|<<interj.>>|<<An expression equivalent to What did you say? Sir? Eh?
+Aroint>>|<<interj.>>|<<Stand off, or begone.
+Aroynt>>|<<interj.>>|<<See Aroint.
+Avaunt>>|<<interj.>>|<<Begone; depart; -- a word of contempt or abhorrence, equivalent to the phrase "Get thee gone."
+Ay>>|<<interj.>>|<<Ah! alas!
+Baccare>>|<<interj.>>|<<Alt. of Backare
+Backare>>|<<interj.>>|<<Stand back! give place! -- a cant word of the Elizabethan writers, probably in ridicule of some person who pretended to a knowledge of Latin which he did not possess.
+Backare>>|<<interj.>>|<<Same as Baccare.
+Bah>>|<<interj.>>|<<An exclamation expressive of extreme contempt.
+Basta>>|<<interj.>>|<<Enough; stop.
+Begone>>|<<interj.>>|<<Go away; depart; get you gone.
+Bismillah>>|<<interj.>>|<<An adjuration or exclamation common among the Mohammedans.
+Bo>>|<<interj.>>|<<An exclamation used to startle or frighten.
+Bravo>>|<<interj.>>|<<Well done! excellent! an exclamation expressive of applause.
+Clum>>|<<interj.>>|<<Silence; hush.
+Depardieux>>|<<interj.>>|<<In God's name; certainly.
+Egad>>|<<interj.>>|<<An exclamation expressing exultation or surprise, etc.
+Eh>>|<<interj.>>|<<An expression of inquiry or slight surprise.
+Eigh>>|<<interj.>>|<<An exclamation expressing delight.
+Enough>>|<<interj.>>|<<An exclamation denoting sufficiency, being a shortened form of it is enough.
+Faith>>|<<interj.>>|<<By my faith; in truth; verily.
+Farewell>>|<<interj.>>|<<Go well; good-by; adieu;  -- originally applied to a person departing, but by custom now applied both to those who depart and those who remain. It is often separated by the pronoun; as, fare you well; and is sometimes used as an expression of separation only; as, farewell the year; farewell, ye sweet groves; that is, I bid you farewell.
+Faugh>>|<<interj.>>|<<An exclamation of contempt, disgust, or abhorrence.
+Fiddledeedee>>|<<interj.>>|<<An exclamatory word or phrase, equivalent to nonsense!
+Fie>>|<<interj.>>|<<An exclamation denoting contempt or dislike. See Fy.
+Foh>>|<<interj.>>|<<An exclamation of abhorrence or contempt; poh; fle.
+Fugh>>|<<interj.>>|<<An exclamation of disgust; foh; faugh.
+Fy>>|<<interj.>>|<<A word which expresses blame, dislike, disapprobation, abhorrence, or contempt. See Fie.
+Good-den>>|<<interj.>>|<<A form of salutation.
+Gramercy>>|<<interj.>>|<<A word formerly used to express thankfulness, with surprise; many thanks.
+Ha>>|<<interj.>>|<<An exclamation denoting surprise, joy, or grief. Both as uttered and as written, it expresses a great variety of emotions, determined by the tone or the context. When repeated, ha, ha, it is an expression of laughter, satisfaction, or triumph, sometimes of derisive laughter; or sometimes it is equivalent to  "Well, it is so."
+Hah>>|<<interj.>>|<<Same as Ha.
+Halleluiah>>|<<n. &amp; interj.>>|<<Alt. of Hallelujah
+Hallelujah>>|<<n. &amp; interj.>>|<<Praise ye Jehovah; praise ye the Lord; -- an exclamation used chiefly in songs of praise or thanksgiving to God, and as an expression of gratitude or adoration.
+Harrow>>|<<interj.>>|<<Help! Halloo! An exclamation of distress; a call for succor;-the ancient Norman hue and cry.
+Heartlings>>|<<interj.>>|<<An exclamation used in addressing a familiar acquaintance.
+Heigh-ho>>|<<interj.>>|<<An exclamation of surprise, joy, dejection, uneasiness, weariness, etc.
+Hello>>|<<interj. &amp; n.>>|<<See Halloo.
+Hem>>|<<interj.>>|<<An onomatopoetic word used as an expression of hesitation, doubt, etc. It is often a sort of voluntary half cough, loud or subdued, and would perhaps be better expressed by hm.
+Hey>>|<<interj.>>|<<An exclamation of joy, surprise, or encouragement.
+Hey>>|<<interj.>>|<<A cry to set dogs on.
+Heyday>>|<<interj.>>|<<An expression of frolic and exultation, and sometimes of wonder.
+Hip>>|<<interj.>>|<<Used to excite attention or as a signal; as, hip, hip, hurra!
+Hist>>|<<interj.>>|<<Hush; be silent; -- a signal for silence.
+Ho>>|<<interj.>>|<<Alt. of Hoa
+Hoa>>|<<interj.>>|<<A stop; a halt; a moderation of pace.
+Ho>>|<<interj.>>|<<Alt. of Hoa
+Hoa>>|<<interj.>>|<<Halloo! attend! -- a call to excite attention, or to give notice of approach.
+Hoa>>|<<interj.>>|<<Stop! stand still! hold! -- a word now used by teamsters, but formerly to order the cessation of anything.
+Holla>>|<<interj.>>|<<Hollo.
+Hollo>>|<<interj. &amp; n.>>|<<Ho there; stop; attend; hence, a loud cry or a call to attract attention; a halloo.
+Hollo>>|<<interj.>>|<<To call out or exclaim; to halloo.  This form is now mostly replaced by hello.
+Hollow>>|<<interj.>>|<<Hollo.
+Hoo>>|<<interj.>>|<<See Ho.
+Hoo>>|<<interj.>>|<<Hurrah! -- an exclamation of triumphant joy.
+Hoy>>|<<interj.>>|<<Ho! Halloe! Stop!
+Hullo>>|<<interj.>>|<<See Hollo.
+Hum>>|<<interj.>>|<<An inarticulate nasal sound or murmur, like h'm, uttered by a speaker in pause from embarrassment, affectation, etc.
+Hum>>|<<interj.>>|<<A kind of strong drink formerly used.
+Hum>>|<<interj.>>|<<Ahem; hem; an inarticulate sound uttered in a pause of speech implying doubt and deliberation.
+Humph>>|<<interj.>>|<<An exclamation denoting surprise, or contempt, doubt, etc.
+Hurrah>>|<<interj.>>|<<Alt. of Hurra
+Hurra>>|<<interj.>>|<<A word used as a shout of joy, triumph, applause, encouragement, or welcome.
+Huzza>>|<<interj.>>|<<A word used as a shout of joy, exultation, approbation, or encouragement.
+Jossa>>|<<interj.>>|<<A command to a horse, probably meaning "stand still."
+La>>|<<interj.>>|<<Look; see; behold; -- sometimes followed by you.
+La>>|<<interj.>>|<<An exclamation of surprise; -- commonly followed by me; as, La me!
+Lack>>|<<interj.>>|<<Exclamation of regret or surprise.
+Lackadaisy>>|<<interj.>>|<<An expression of languor.
+Lackaday>>|<<interj.>>|<<Alack the day; alas; -- an expression of sorrow, regret, dissatisfaction, or surprise.
+Law>>|<<interj.>>|<<An exclamation of mild surprise.
+Lo>>|<<interj.>>|<<Look; see; behold; observe.
+Marie>>|<<interj.>>|<<Marry.
+Marry>>|<<interj.>>|<<Indeed ! in truth ! -- a term of asseveration said to have been derived from the practice of swearing by the Virgin Mary.
+Mary>>|<<interj.>>|<<See Marry.
+Mum>>|<<interj.>>|<<Be silent! Hush!
+O>>|<<interj.>>|<<An exclamation used in calling or directly addressing a person or personified object; also, as an emotional or impassioned exclamation expressing pain, grief, surprise, desire, fear, etc.
+Ods>>|<<interj.>>|<<A corruption of God's; -- formerly used in oaths and ejaculatory phrases.
+Off>>|<<interj.>>|<<Away; begone; -- a command to depart.
+Oh>>|<<interj.>>|<<An exclamation expressing various emotions, according to the tone and manner, especially surprise, pain, sorrow, anxiety, or a wish. See the Note under O.
+Oho>>|<<interj.>>|<<An exclamation of surprise, etc.
+Out>>|<<interj.>>|<<Expressing impatience, anger, a desire to be rid of; -- with the force of command; go out; begone; away; off.
+Oyez>>|<<interj.>>|<<Hear; attend; -- a term used by criers of courts to secure silence before making a proclamation. It is repeated three times.
+Pah>>|<<interj.>>|<<An exclamation expressing disgust or contempt. See Bah.
+Parfay>>|<<interj.>>|<<By my faith; verily.
+Pish>>|<<interj.>>|<<An exclamation of contempt.
+Poh>>|<<interj.>>|<<An exclamation expressing contempt or disgust; bah !
+Pooh>>|<<interj.>>|<<Pshaw! pish! nonsense! -- an expression of scorn, dislike, or contempt.
+Prithee>>|<<interj.>>|<<A corruption of pray thee; as, I prithee; generally used without I.
+Proface>>|<<interj.>>|<<Much good may it do you! -- a familiar salutation or welcome.
+Prythee>>|<<interj.>>|<<See Prithee.
+Pshaw>>|<<interj.>>|<<Pish! pooch! -- an exclamation used as an expression of contempt, disdain, dislike, etc.
+Pugh>>|<<interj.>>|<<Pshaw! pish! -- a word used in contempt or disdain.
+Puh>>|<<interj.>>|<<The same as Pugh.
+Quits>>|<<interj.>>|<<See the Note under Quit, a.
+Quotha>>|<<interj.>>|<<Indeed; forsooth.
+Roint>>|<<interj.>>|<<See Aroint.
+Salve>>|<<interj.>>|<<Hail!
+'Sblood>>|<<interj.>>|<<An abbreviation of God's blood; -- used as an oath.
+Scat>>|<<interj.>>|<<Go away; begone; away; -- chiefly used in driving off a cat.
+'Sdeath>>|<<interj.>>|<<An exclamation expressive of impatience or anger.
+Sessa>>|<<interj.>>|<<Hurry; run.
+Shoo>>|<<interj.>>|<<Begone; away; -- an expression used in frightening away animals, especially fowls.
+Shough>>|<<interj.>>|<<See Shoo.
+Silence>>|<<interj.>>|<<Be silent; -- used elliptically for let there be silence, or keep silence.
+'Snails>>|<<interj.>>|<<God's nails, or His nails, that is, the nails with which the Savior was fastened to the cross; -- an ancient form of oath, corresponding to 'Od's bodikins (dim. of body, i.e., God's dear body).
+So>>|<<interj.>>|<<Be as you are; stand still; stop; that will do; right as you are; -- a word used esp. to cows; also used by sailors.
+Soft>>|<<interj.>>|<<Be quiet; hold; stop; not so fast.
+Soho>>|<<interj.>>|<<Ho; -- a word used in calling from a distant place; a sportsman's halloo.
+'Swounds>>|<<interj.>>|<<An exclamation contracted from God's wounds; -- used as an oath.
+Tallyho>>|<<interj. &amp; n.>>|<<The huntsman's cry to incite or urge on his hounds.
+Tallyho>>|<<interj. &amp; n.>>|<<A tallyho coach.
+Te-hee>>|<<n. &amp; interj.>>|<<A tittering laugh; a titter.
+Tush>>|<<interj.>>|<<An exclamation indicating check, rebuke, or contempt; as, tush, tush! do not speak of it.
+Tu-whit>>|<<n. &amp; interj.>>|<<Alt. of Tu-whoo
+Tu-whoo>>|<<n. &amp; interj.>>|<<Words imitative of the notes of the owl.
+Ugh>>|<<interj.>>|<<An exclamation expressive of disgust, horror, or recoil. Its utterance is usually accompanied by a shudder.
+Walaway>>|<<interj.>>|<<See Welaway.
+Waly>>|<<interj.>>|<<An exclamation of grief.
+Wayleway>>|<<interj.>>|<<See Welaway.
+Welaway>>|<<interj.>>|<<Alas!
+Welladay>>|<<interj.>>|<<Alas! Welaway!
+Weyleway>>|<<interj.>>|<<See Welaway.
+Whew>>|<<n. &amp; interj.>>|<<A sound like a half-formed whistle, expressing astonishment, scorn, or dislike.
+Whist>>|<<interj.>>|<<Be silent; be still; hush; silence.
+Whoa>>|<<interj.>>|<<Stop; stand; hold.  See Ho, 2.
+Yoicks>>|<<interj.>>|<<A cry of encouragement to foxhounds.
+Zounds>>|<<interj.>>|<<An exclamation formerly used as an oath, and an expression of anger or wonder.

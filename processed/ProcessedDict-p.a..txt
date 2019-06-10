@@ -1,0 +1,14 @@
+Barded>>|<<p.a.>>|<<Accoutered with defensive armor; -- said of a horse.
+Barded>>|<<p.a.>>|<<Wearing rich caparisons.
+Bowstringed>>|<<p.a.>>|<<Furnished with bowstring.
+Bowstringed>>|<<p.a.>>|<<Put to death with a bowstring; strangled.
+Brained>>|<<p.a.>>|<<Supplied with brains.
+Brouded>>|<<p.a.>>|<<Braided; broidered.
+Bysmottered>>|<<p.a.>>|<<Bespotted with mud or dirt.
+Confated>>|<<p.a.>>|<<Fated or decreed with something else.
+Convict>>|<<p.a.>>|<<Proved or found guilty; convicted.
+Cooling>>|<<p.a.>>|<<Adapted to cool and refresh; allaying heat.
+Mistaken>>|<<p.a.>>|<<Being in error; judging wrongly; having a wrong opinion or a misconception; as, a mistaken man; he is mistaken.
+Mistaken>>|<<p.a.>>|<<Erroneous; wrong; as, a mistaken notion.
+Molding>>|<<p.a.>>|<<Alt. of Moulding
+Moulding>>|<<p.a.>>|<<Used in making a mold or moldings; used in shaping anything according to a pattern.

@@ -1,0 +1,113 @@
+Al>>|<<conj.>>|<<Although; if.
+Albe>>|<<conj.>>|<<Alt. of Albee
+Albee>>|<<conj.>>|<<Although; albeit.
+Albeit>>|<<conj.>>|<<Even though; although; notwithstanding.
+All>>|<<conj.>>|<<Although; albeit.
+Also>>|<<adv. &amp; conj.>>|<<In like manner; likewise.
+Also>>|<<adv. &amp; conj.>>|<<In addition; besides; as well; further; too.
+Also>>|<<adv. &amp; conj.>>|<<Even as; as; so.
+Altho>>|<<conj.>>|<<Although.
+Although>>|<<conj.>>|<<Grant all this; be it that; supposing that; notwithstanding; though.
+An>>|<<conj.>>|<<If; -- a word used by old English authors.
+And>>|<<conj.>>|<<A particle which expresses the relation of connection or addition. It is used to conjoin a word with a word, a clause with a clause, or a sentence with a sentence.
+And>>|<<conj.>>|<<In order to; -- used instead of the infinitival to, especially after try, come, go.
+And>>|<<conj.>>|<<It is sometimes, in old songs, a mere expletive.
+And>>|<<conj.>>|<<If; though. See An, conj.
+Ar>>|<<conj.>>|<<Ere; before.
+As>>|<<adv. &amp; conj.>>|<<Denoting equality or likeness in kind, degree, or manner; like; similar to; in the same manner with or in which; in accordance with; in proportion to; to the extent or degree in which or to which; equally; no less than; as, ye shall be as gods, knowing good and evil; you will reap as you sow; do as you are bidden.
+As>>|<<adv. &amp; conj.>>|<<In the idea, character, or condition of, -- limiting the view to certain attributes or relations; as, virtue considered as virtue; this actor will appear as Hamlet.
+As>>|<<adv. &amp; conj.>>|<<While; during or at the same time that; when; as, he trembled as he spoke.
+As>>|<<adv. &amp; conj.>>|<<Because; since; it being the case that.
+As>>|<<adv. &amp; conj.>>|<<Expressing concession. (Often approaching though in meaning).
+As>>|<<adv. &amp; conj.>>|<<That, introducing or expressing a result or consequence, after the correlatives so and such.
+As>>|<<adv. &amp; conj.>>|<<As if; as though.
+As>>|<<adv. &amp; conj.>>|<<For instance; by way of example; thus; -- used to introduce illustrative phrases, sentences, or citations.
+As>>|<<adv. &amp; conj.>>|<<Than.
+As>>|<<adv. &amp; conj.>>|<<Expressing a wish.
+Because>>|<<conj.>>|<<By or for the cause that; on this account that; for the reason that.
+Because>>|<<conj.>>|<<In order that; that.
+Both>>|<<conj.>>|<<As well; not only; equally.
+But>>|<<adv. &amp; conj.>>|<<Except with; unless with; without.
+But>>|<<adv. &amp; conj.>>|<<Except; besides; save.
+But>>|<<adv. &amp; conj.>>|<<Excepting or excluding the fact that; save that; were it not that; unless; -- elliptical, for but that.
+But>>|<<adv. &amp; conj.>>|<<Otherwise than that; that not; -- commonly, after a negative, with that.
+But>>|<<adv. &amp; conj.>>|<<Only; solely; merely.
+But>>|<<adv. &amp; conj.>>|<<On the contrary; on the other hand; only; yet; still; however; nevertheless; more; further; -- as connective of sentences or clauses of a sentence, in a sense more or less exceptive or adversative; as, the House of Representatives passed the bill, but the Senate dissented; our wants are many, but quite of another kind.
+But>>|<<prep., adv. &amp; conj.>>|<<The outer apartment or kitchen of a two-roomed house; -- opposed to ben, the inner room.
+Cause>>|<<conj.>>|<<Abbreviation of Because.
+Elles>>|<<adv. &amp; conj.>>|<<See Else.
+Else>>|<<adv. &amp; conj.>>|<<Besides; except that mentioned; in addition; as, nowhere else; no one else.
+Else>>|<<adv. &amp; conj.>>|<<Otherwise; in the other, or the contrary, case; if the facts were different.
+Except>>|<<conj.>>|<<Unless; if it be not so that.
+For>>|<<conj.>>|<<Because; by reason that; for that; indicating, in Old English, the reason of anything.
+For>>|<<conj.>>|<<Since; because; introducing a reason of something before advanced, a cause, motive, explanation, justification, or the like, of an action related or a statement made. It is logically nearly equivalent to since, or because, but connects less closely, and is sometimes used as a very general introduction to something suggested by what has gone before.
+Forasmuch>>|<<conj.>>|<<In consideration that; seeing that; since; because that; -- followed by as. See under For, prep.
+Forwhy>>|<<conj.>>|<<Wherefore; because.
+Gif>>|<<conj.>>|<<If.
+Gin>>|<<conj.>>|<<If.
+Howbeit>>|<<conj.>>|<<Be it as it may; nevertheless; notwithstanding; although; albeit; yet; but; however.
+However>>|<<conj.>>|<<Nevertheless; notwithstanding; yet; still; though; as, I shall not oppose your design; I can not, however, approve of it.
+Howsoever>>|<<adj. &amp; conj.>>|<<In what manner soever; to whatever degree or extent; however.
+Howsoever>>|<<adj. &amp; conj.>>|<<Although; though; however.
+If>>|<<conj.>>|<<In case that; granting, allowing, or supposing that; -- introducing a condition or supposition.
+If>>|<<conj.>>|<<Whether; -- in dependent questions.
+Least>>|<<conj.>>|<<See Lest, conj.
+Less>>|<<conj.>>|<<Unless.
+Ma>>|<<conj.>>|<<But; -- used in cautionary phrases; as, "Vivace, ma non troppo presto" (i. e., lively, but not too quick).
+Nathless>>|<<conj.>>|<<Nevertheless.
+Neither>>|<<conj.>>|<<not either; generally used to introduce the first of two or more coordinate clauses of which those that follow begin with nor.
+Nisi>>|<<conj.>>|<<Unless; if not.
+Nor>>|<<conj.>>|<<A negative connective or particle, introducing the second member or clause of a negative proposition, following neither, or not, in the first member or clause (as or in affirmative propositions follows either). Nor is also used sometimes in the first member for neither, and sometimes the neither is omitted and implied by the use of nor.
+Nother>>|<<conj.>>|<<Neither; nor.
+Only>>|<<conj.>>|<<Save or except (that); -- an adversative used elliptically with or without that, and properly introducing a single fact or consideration.
+Or>>|<<conj.>>|<<A particle that marks an alternative; as, you may read or may write, -- that is, you may do one of the things at your pleasure, but not both. It corresponds to either. You may ride either to London or to Windsor. It often connects a series of words or propositions, presenting a choice of either; as, he may study law, or medicine, or divinity, or he may enter into trade.
+Other>>|<<conj.>>|<<Either; -- used with other or or for its correlative (as either . . . or are now used).
+Outher>>|<<conj.>>|<<Other.
+Peradventure>>|<<adv. &amp; conj.>>|<<By chance; perhaps; it may be; if; supposing.
+Provided>>|<<conj.>>|<<On condition; by stipulation; with the understanding; if; -- usually followed by that; as, provided that nothing in this act shall prejudice the rights of any person whatever.
+Qua>>|<<conj.>>|<<In so far as; in the capacity or character of; as.
+Sauf>>|<<conj. &amp; prep.>>|<<Save; except.
+Save>>|<<conj.>>|<<Except; unless.
+Sen>>|<<adv., prep., &amp; conj.>>|<<Since.
+Sethen>>|<<adv. &amp; conj.>>|<<See Since.
+Sin>>|<<adv., prep., &amp; conj.>>|<<Old form of Since.
+Since>>|<<conj.>>|<<Seeing that; because; considering; -- formerly followed by that.
+Sith>>|<<prep., adv., &amp; conj.>>|<<Since; afterwards; seeing that.
+Sithen>>|<<adv. &amp; conj.>>|<<Since; afterwards. See 1st Sith.
+Sithence>>|<<adv. &amp; conj.>>|<<Alt. of Sithens
+Sithens>>|<<adv. &amp; conj.>>|<<Since. See Sith, and Sithen.
+Siththen>>|<<adv. &amp; conj.>>|<<See Sithen.
+So>>|<<conj.>>|<<Provided that; on condition that; in case that; if.
+Syne>>|<<conj.>>|<<Since; seeing.
+Than>>|<<conj.>>|<<A particle expressing comparison, used after certain adjectives and adverbs which express comparison or diversity, as more, better, other, otherwise, and the like. It is usually followed by the object compared in the nominative case. Sometimes, however, the object compared is placed in the objective case, and than is then considered by some grammarians as a preposition. Sometimes the object is expressed in a sentence, usually introduced by that; as, I would rather suffer than that you should want.
+Then>>|<<conj.>>|<<Than.
+Then>>|<<conj.>>|<<In that case; in consequence; as a consequence; therefore; for this reason.
+Tho>>|<<conj.>>|<<Though.
+Though>>|<<conj.>>|<<Granting, admitting, or supposing that; notwithstanding that; if.
+Til>>|<<prep. &amp; conj.>>|<<See Till.
+Till>>|<<conj.>>|<<As far as; up to the place or degree that; especially, up to the time that; that is, to the time specified in the sentence or clause following; until.
+Unless>>|<<conj.>>|<<Upon any less condition than (the fact or thing stated in the sentence or clause which follows); if not; supposing that not; if it be not; were it not that; except; as, we shall fail unless we are industrious.
+Until>>|<<conj.>>|<<As far as; to the place or degree that; especially, up to the time that; till. See Till, conj.
+Unto>>|<<conj.>>|<<Until; till.
+Wheder>>|<<pron. &amp; conj.>>|<<Whether.
+Whenas>>|<<conj.>>|<<Whereas; while
+Whenceever>>|<<adv. &amp; conj.>>|<<Whencesoever.
+Whencesoever>>|<<adv. &amp; conj.>>|<<From what place soever; from what cause or source soever.
+Whene'er>>|<<adv. &amp; conj.>>|<<Whenever.
+Whenever>>|<<adv. &amp; conj.>>|<<At whatever time.
+Whensoever>>|<<adv. &amp; conj.>>|<<At what time soever; at whatever time; whenever.
+Where>>|<<pron. &amp; conj.>>|<<Whether.
+Where>>|<<conj.>>|<<Whereas.
+Whereas>>|<<conj.>>|<<Considering that; it being the case that; since; -- used to introduce a preamble which is the basis of declarations, affirmations, commands, requests, or like, that follow.
+Whereas>>|<<conj.>>|<<When in fact; while on the contrary; the case being in truth that; although; -- implying opposition to something that precedes; or implying recognition of facts, sometimes followed by a different statement, and sometimes by inferences or something consequent.
+Wherefore>>|<<adv. &amp; conj.>>|<<For which reason; so; -- used relatively.
+Wherefore>>|<<adv. &amp; conj.>>|<<For what reason; why; -- used interrogatively.
+Whether>>|<<conj.>>|<<In case; if; -- used to introduce the first or two or more alternative clauses, the other or others being connected by or, or by or whether. When the second of two alternatives is the simple negative of the first it is sometimes only indicated by the particle not or no after the correlative, and sometimes it is omitted entirely as being distinctly implied in the whether of the first.
+While>>|<<conj.>>|<<During the time that; as long as; whilst; at the same time that; as, while I write, you sleep.
+While>>|<<conj.>>|<<Hence, under which circumstances; in which case; though; whereas.
+Whiles>>|<<conj.>>|<<During the time that; while.
+Without>>|<<conj.>>|<<Unless; except; -- introducing a clause.
+Yet>>|<<conj.>>|<<Before some future time; before the end; eventually; in time.
+Yet>>|<<conj.>>|<<Even; -- used emphatically.
+Yet>>|<<conj.>>|<<Nevertheless; notwithstanding; however.
+Yit>>|<<conj.>>|<<Yet.

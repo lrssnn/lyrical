@@ -1,0 +1,40 @@
+Brachypteres>>|<<n.pl.>>|<<A group of birds, including auks, divers, and penguins.
+Faeces>>|<<n.pl.>>|<<Excrement; ordure; also, settlings; sediment after infusion or distillation.
+Faints>>|<<n.pl.>>|<<The impure spirit which comes over first and last in the distillation of whisky; -- the former being called the strong faints, and the latter, which is much more abundant, the weak faints. This crude spirit is much impregnated with fusel oil.
+Fallals>>|<<n.pl.>>|<<Gay ornaments; frippery; gewgaws.
+Fasti>>|<<n.pl.>>|<<The Roman calendar, which gave the days for festivals, courts, etc., corresponding to a modern almanac.
+Fasti>>|<<n.pl.>>|<<Records or registers of important events.
+Fauces>>|<<n.pl.>>|<<The narrow passage from the mouth to the pharynx, situated between the soft palate and the base of the tongue; -- called also the isthmus of the fauces.  On either side of the passage two membranous folds, called the pillars of the fauces, inclose the tonsils.
+Fauces>>|<<n.pl.>>|<<The throat of a calyx, corolla, etc.
+Fauces>>|<<n.pl.>>|<<That portion of the interior of a spiral shell which can be seen by looking into the aperture.
+Fodientia>>|<<n.pl.>>|<<A group of African edentates including the aard-vark.
+Gaskins>>|<<n.pl.>>|<<Loose hose or breeches; galligaskins.
+Gaskins>>|<<n.pl.>>|<<Packing of hemp.
+Gaskins>>|<<n.pl.>>|<<A horse's thighs.
+Hyades>>|<<n.pl.>>|<<Alt. of Hyads
+Hyads>>|<<n.pl.>>|<<A cluster of five stars in the face of the constellation Taurus, supposed by the ancients to indicate the coming of rainy weather when they rose with the sun.
+Inmeats>>|<<n.pl.>>|<<The edible viscera of animals, as the heart, liver, etc.
+Monomya>>|<<n.pl.>>|<<Alt. of Monomyaria
+Monomyaria>>|<<n.pl.>>|<<An order of lamellibranchs having but one muscle for closing the shell, as the oyster.
+Navals>>|<<n.pl.>>|<<Naval affairs.
+Objibways>>|<<n.pl.>>|<<See Chippeways.
+Obsequies>>|<<n.pl.>>|<<See Obsequy.
+Occidentals>>|<<n.pl.>>|<<Western Christians of the Latin rite.  See Orientals.
+Octandria>>|<<n.pl.>>|<<A Linnaean class of plants, in which the flowers have eight stamens not united to one another or to the pistil.
+Octocera>>|<<n.pl.>>|<<Octocerata.
+Octocerata>>|<<n.pl.>>|<<A suborder of Cephalopoda including Octopus, Argonauta, and allied genera, having eight arms around the head; -- called also Octopoda.
+Octogynia>>|<<n.pl.>>|<<A Linnaean order of plants having eight pistils.
+Octopoda>>|<<n.pl.>>|<<Same as Octocerata.
+Octopoda>>|<<n.pl.>>|<<Same as Arachnida.
+Octopodia>>|<<n.pl.>>|<<Same as Octocerata.
+Oculinacea>>|<<n.pl.>>|<<A suborder of corals including many reef-building species, having round, starlike calicles.
+Odontocete>>|<<n.pl.>>|<<A subdivision of Cetacea, including the sperm whale, dolphins, etc.; the toothed whales.
+Odontophora>>|<<n.pl.>>|<<Same as Cephalophora.
+Odontotormae>>|<<n.pl.>>|<<An order of extinct toothed birds having the teeth in sockets, as in the genus Ichthyornis. See Ichthyornis.
+Totipalmi>>|<<n.pl.>>|<<A division of swimming birds including those that have totipalmate feet.
+Toxifera>>|<<n.pl.>>|<<Same as Toxoglossa.
+Toxodonta>>|<<n.pl.>>|<<An extinct order of Mammalia found in the South American Tertiary formation. The incisor teeth were long and curved and provided with a persistent pulp. They are supposed to be related both to the rodents and ungulates. Called also Toxodontia.
+Toxoglossa>>|<<n.pl.>>|<<A division of marine gastropod mollusks in which the radula are converted into poison fangs. The cone shells (Conus), Pleurotoma, and Terebra, are examples. See Illust. of Cone, n., 4, Pleurotoma, and Terebra.
+Trachearia>>|<<n.pl.>>|<<A division of Arachnida including those that breathe only by means of tracheae. It includes the mites, ticks, false scorpions, and harvestmen.
+Tracheata>>|<<n.pl.>>|<<An extensive division of arthropods comprising all those which breathe by tracheae, as distinguished from Crustacea, which breathe by means of branchiae.
+Trachelipoda>>|<<n.pl.>>|<<An extensive artificial group of gastropods comprising all those which have a spiral shell and the foot attached to the base of the neck.
