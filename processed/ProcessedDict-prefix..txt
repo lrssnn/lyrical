@@ -1,3 +1,0 @@
-Haemato->>|<<prefix.>>|<<See Haema-.
-Haemo->>|<<prefix.>>|<<See Haema-.
-I->>|<<prefix.>>|<<See Y-.

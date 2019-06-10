@@ -1,9 +1,0 @@
-He>>|<<obj.>>|<<The man or male being (or object personified to which the masculine gender is assigned), previously designated; a pronoun of the masculine gender, usually referring to a specified subject already indicated.
-He>>|<<obj.>>|<<Any one; the man or person; -- used indefinitely, and usually followed by a relative pronoun.
-He>>|<<obj.>>|<<Man; a male; any male person; -- in this sense used substantively.
-She>>|<<obj.>>|<<This or that female; the woman understood or referred to; the animal of the female sex, or object personified as feminine, which was spoken of.
-She>>|<<obj.>>|<<A woman; a female; -- used substantively.
-They>>|<<obj.>>|<<The plural of he, she, or it. They is never used adjectively, but always as a pronoun proper, and sometimes refers to persons without an antecedent expressed.
-Thou>>|<<obj.>>|<<The second personal pronoun, in the singular number, denoting the person addressed; thyself; the pronoun which is used in addressing persons in the solemn or poetical style.
-We>>|<<obj.>>|<<The plural nominative case of the pronoun of the first person; the word with which a person in speaking or writing denotes a number or company of which he is one, as the subject of an action expressed by a verb.
-You>>|<<dat. &amp; obj.>>|<<The pronoun of the second person, in the nominative, dative, and objective case, indicating the person or persons addressed.  See the Note under Ye.

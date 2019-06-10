@@ -1,2 +1,0 @@
-Breadthways>>|<<ads.>>|<<Breadthwise.
-Breadthwise>>|<<ads.>>|<<In the direction of the breadth.

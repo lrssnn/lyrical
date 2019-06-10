@@ -1,3 +1,0 @@
-Ambassade>>|<<ambassade.>>|<<Alt. of Embassade
-Embassade>>|<<ambassade.>>|<<The mission of an ambassador.
-Embassade>>|<<ambassade.>>|<<An embassy.
